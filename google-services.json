@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "861695388348",
+    "project_id": "memento-japanese",
+    "storage_bucket": "memento-japanese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861695388348:android:ab11d1a433cbfc7c5c7eb9",
+        "android_client_info": {
+          "package_name": "com.lukeleon.momentojapanese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861695388348-r9rnph5mqe8vpr1sdfs576fjj8dfo0rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lukeleon.momentojapanese",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "861695388348-36udq79ombl1131s7t1u93gk8b195niq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOiDMHVjfjTjJ8-H0AbAIRAkOyZcWSF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861695388348-36udq79ombl1131s7t1u93gk8b195niq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861695388348-1seip50p4ulcgcj7bv4injcbkagj45gr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tcm007.momentoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

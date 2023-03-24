@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Memento</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">cover</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">691877829192897</string>
+  <string name="facebook_client_token">ce6f6294467f07e8319b32012914bf8d</string>
+  <string name="fb_login_protocol_scheme">fb691877829192897</string>
+</resources>
